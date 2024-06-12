@@ -1,0 +1,6 @@
+<resources>
+    <style name="Base.Theme.FireBase_1" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.FireBase_1" parent="Base.Theme.FireBase_1" />
+</resources>
